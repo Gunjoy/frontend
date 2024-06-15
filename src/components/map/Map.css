@@ -1,4 +1,6 @@
 #map{
     width: 100%;
-    height: 1800px;
+    flex: 0 0 1800px !important;
+    max-height: 2000px;
+    
 }
